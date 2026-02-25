@@ -1,0 +1,23 @@
+
+.titulo-pagina-1 {
+
+    text-align: center;
+}
+
+.contenedor-1 label,
+.contenedor-1 input {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.contenedor-1 { /* esto es como para poner comoun cuadro por fuera del contenedor */
+    border: 100px solid #ccc;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 600px;
+
+}
+
+.titulo-pagina-1 {
+    color: #006400;
+}
